@@ -1,0 +1,6 @@
+name = "opencode-free-proxy"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+API_KEYS = "654321"
